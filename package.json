@@ -1,6 +1,6 @@
 {
-  "name": "sca",
   "homepage": "https://rajmishra-47.github.io/simple-CRUD-app",
+  "name": "sca",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
